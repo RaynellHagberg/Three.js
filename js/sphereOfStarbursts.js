@@ -25,7 +25,7 @@ function createScene() {
         }
     }
 
-    var material = new THREE.PointsMaterial({ vertexColors: true, size: 10, sizeAttenuation: false });
+    var material = new THREE.PointsMaterial({ vertexColors: true, size: 2, sizeAttenuation: false });
     var mesh = new THREE.Points(points, material);
 
     // light
