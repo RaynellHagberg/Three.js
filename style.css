@@ -1,0 +1,105 @@
+h1 {
+	color: lightyellow;
+	background-color: cornflowerblue;
+	font-variant: small-caps;
+	font-size: 2.5em;
+	font-weight: 100;
+	font-family: Cambria;
+	text-align:center;
+	padding: 40px;
+	border: solid;
+	border-width: 10px 5px 10px 5px;
+	border-color: steelblue;
+}
+
+body {
+	font-size: 20px;
+	font-family: Cambria;
+	color: cadetblue;
+	background-color: aliceblue;
+	margin: 20px;
+	/*margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 100px;*/
+}
+
+#p1 {
+	background-color: bisque;
+	letter-spacing: 0.1em;
+	text-indent: 1em;
+	padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+h2 {
+	font-size: 1.5em;
+	background-color: #fff0f0;
+	margin: 20px;
+	padding: 30px;
+}
+
+#p2 {
+	background-color: bisque;
+	letter-spacing: 0.1em;
+	text-indent: 1em;
+	padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#whyhtml {
+	/*line-height: 15px;*/
+	/*line-height: 150%;*/
+	line-height: 1.5;
+	background-color: bisque;
+	letter-spacing: 0.1em;
+	text-indent: 1em;
+	padding: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#learnthefun {
+	line-height: 1.5;
+	text-indent: 0.5em;
+	margin: 10px;
+}
+
+#quote {
+	background-color: bisque;
+	letter-spacing: 0.1em;
+	text-indent: 1em;
+	padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#p3 {
+	background-color: bisque;
+	letter-spacing: 0.1em;
+	text-indent: 1em;
+	padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#htmldog {
+	margin-top: 20px;
+	background-color: bisque;
+	letter-spacing: 0.1em;
+	text-indent: 1em;
+	padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#contact {
+	margin-top: 20px;
+	letter-spacing: 0.1em;
+	text-align: center;
+	text-indent: 10em;
+	padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
